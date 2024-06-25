@@ -22,15 +22,17 @@ repository for more information about data and code management.
 - [hazards-TC](https://github.com/AusClimateService/hazards-TC): Tropical Cyclones
 - [plotting_maps](https://github.com/AusClimateService/plotting_maps): Standardised hazard maps for ACS
 
-#### Dataset releases
+#### Bias correction
 
 - [bias-correction-data-release](https://github.com/AusClimateService/bias-correction-data-release): Tracking of bias corrected data release stages
-- [BARRA2-data-release](https://github.com/AusClimateService/BARRA2-data-release): Tracking of the BARRA2 reanalysis data release stages
-- [BARPA-data-release](https://github.com/AusClimateService/BARPA-data-release): Tracking of the BARPA data release stages
-- [ESCI-data-collection](https://github.com/AusClimateService/ESCI-data-collection): Code and information relating to the ESCI dataset
+- [QME](https://github.com/AusClimateService/QME): Code for applying the Quantile Mapping for Extremes method
+- [qqscale](https://github.com/AusClimateService/qqscale): Code for quantile scaling
 
 #### Downscaling
 
+- [BARRA2-data-release](https://github.com/AusClimateService/BARRA2-data-release): Tracking of the BARRA2 reanalysis data release stages
+- [BARPA-data-release](https://github.com/AusClimateService/BARPA-data-release): Tracking of the BARPA data release stages
+- [ESCI-data-collection](https://github.com/AusClimateService/ESCI-data-collection): Code and information relating to the ESCI dataset
 - [productive](https://github.com/AusClimateService/productive): Code for bringing BARPA and BARRA2 data to level 1 data standards
 - [CCAM](https://github.com/AusClimateService/CCAM): Code related to CCAM data processing
 
@@ -50,7 +52,6 @@ repository for more information about data and code management.
 - [indices](https://github.com/AusClimateService/indices): Code used for calculating climate indices
 - [unseen](https://github.com/AusClimateService/unseen): Code for UNprecedented Simulated Extremes using ENsembles (UNSEEN) analysis
 - [data-catalogue](https://github.com/AusClimateService/data-catalogue): Documentation and discussion of scoping work for a proposed ACS intake data catalogue
-- [qqscale](https://github.com/AusClimateService/qqscale): Code for quantile scaling
 - [gwls](https://github.com/AusClimateService/gwls): Code for identifying Global Warming Levels
 
 #### Event analysis
