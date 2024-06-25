@@ -20,6 +20,7 @@ repository for more information about data and code management.
 - [hazard_ocean](https://github.com/AusClimateService/hazard_ocean): Oceans
 - [hazard_fire](https://github.com/AusClimateService/hazard_fire): Fire - FFDI
 - [hazards-TC](https://github.com/AusClimateService/hazards-TC): Tropical Cyclones
+- [plotting_maps](https://github.com/AusClimateService/plotting_maps): Standardised hazard maps for ACS
 
 #### Dataset releases
 
