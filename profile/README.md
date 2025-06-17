@@ -26,6 +26,7 @@ repository for more information about data and code management.
 
 - [bias-correction-data-release](https://github.com/AusClimateService/bias-correction-data-release): Tracking of bias corrected data release stages
 - [QME](https://github.com/AusClimateService/QME): Code for applying the Quantile Mapping for Extremes method
+- [MRNBC](https://github.com/AusClimateService/MRNBC/): Code for applying the Multivariate Recursive Nested Bias Correction method
 - [qqscale](https://github.com/AusClimateService/qqscale): Code for quantile scaling
 
 #### Downscaling
