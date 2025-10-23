@@ -52,16 +52,10 @@ repository for more information about data and code management.
 - [axiom](https://github.com/AusClimateService/axiom): A tool for checking and applying file metadata standards
 - [indices](https://github.com/AusClimateService/indices): Code used for calculating climate indices
 - [unseen](https://github.com/AusClimateService/unseen): Code for UNprecedented Simulated Extremes using ENsembles (UNSEEN) analysis
+  - [unseen-projects](https://github.com/AusClimateService/unseen-projects): Code for running generic UNSEEN analysis 
 - [data-catalogue](https://github.com/AusClimateService/data-catalogue): Documentation and discussion of scoping work for a proposed ACS intake data catalogue
 - [gwls](https://github.com/AusClimateService/gwls): Code for identifying Global Warming Levels
-
-#### Event analysis
-
-- [bris-rain](https://github.com/AusClimateService/bris-rain): UNSEEN analysis of the Brisbane rain event in Feb 2022
-- [east-coast-rain](https://github.com/AusClimateService/east-coast-rain): UNSEEN analysis of the east coast rain event in Feb/Mar 2022 
-- [nov-rain](https://github.com/AusClimateService/nov-rain): UNSEEN analysis of November 2021 rain across Australia 
-- [summer-heat](https://github.com/AusClimateService/summer-heat): UNSEEN analysis of summer 2018/19 heat across Australia
-- [unseen-projects](https://github.com/AusClimateService/unseen-projects): Code for running generic UNSEEN analysis
+- [loopevd](https://github.com/AusClimateService/loopevd): Code for performing extreme value analysis at multiple locations using functions from the 'evd' R package
 
 #### Papers
 
