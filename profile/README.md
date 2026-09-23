@@ -61,6 +61,7 @@ repository for more information about data and code management.
 
 - [ccam-extremes](https://github.com/AusClimateService/ccam-extremes): Repository for the CCAM extremes paper
 - [npcp](https://github.com/AusClimateService/npcp): Code for the National Partnership for Climate Projections (NPCP) bias correction intercomparison project
+- [Dry Windy Index](https://github.com/AusClimateService/dwi_evaluation.git): Code for the DWI evaluation paper
 
 
 ## Related Organisations
